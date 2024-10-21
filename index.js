@@ -1,3 +1,4 @@
+// This is the main file that will be executed by node
 const express = require('express');
 
 const app = express();
