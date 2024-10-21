@@ -9,5 +9,3 @@ app.get('', (request, response) => {
 app.listen(4000, () => {
     console.log('App is running...');
 });
-
-// This is what starts the node stuff and make it to work
