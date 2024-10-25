@@ -2,6 +2,12 @@
 
 This project is an AI chatbot client built with Angular and Node.js. It leverages Angular for the frontend and Node.js with Express for the backend, integrating with Google's Generative AI for chatbot functionalities.
 
+# Do Not Forget
+- To get your API_KEY="<Google Generative AI key> " from https://aistudio.google.com/prompts/new_chat
+- To run npm install after cloning the repository
+- You must clone ai-chatbot-angular-node-client inside ai-chatbot-angular-node
+
+
 ## Project Structure
 
 ```
