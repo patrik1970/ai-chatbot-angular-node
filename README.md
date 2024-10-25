@@ -1,4 +1,4 @@
-# AI Chatbot Angular Node Client
+# AI Chatbot Angular Node
 
 This project is an AI chatbot client built with Angular and Node.js. It leverages Angular for the frontend and Node.js with Express for the backend, integrating with Google's Generative AI for chatbot functionalities.
 
