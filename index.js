@@ -9,7 +9,7 @@ const genAI = new GoogleGenerativeAI(process.env.API_KEY);
 const app = express();
 
 app.use(cors());
-    const model = genAI.getGenerativeModel({ model: 'gemini-pro' });
+    //const model = genAI.getGenerativeModel({ model: 'gemini-pro' });
 async function sendMessage(message) {
     const model = await genAI.getGenerativeModel({ model: 'gemini-pro' });
     const data = await model.generateContent(message);
